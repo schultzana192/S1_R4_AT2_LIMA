@@ -30,15 +30,13 @@ body {
     font-weight: bold;
 }
 
-.nav-menu{
+.navegacao {
     display: flex;
-    gap: 25px;
-}
-
-.nav-menu a {
-    color: black;
     text-decoration: none;
+    gap: 25px;
+    color: black;
     font-size: 14px;
+    list-style: none;
 }
 
 .herader-actions{
